@@ -22,15 +22,26 @@ A maior comunidade Ruby em linha reta do mundo convida para seu próximo encontr
 
 ## Agenda
 
-- 18:00h~19:00h ~ Credenciamento / Coffee Break
-- 19:00h~19:30h ~ Rodada de Apresentações
-- 19:30h~20:00h ~ A definir
-- 20:00h~20:30h ~ A definir
-- 20:30h~22:00h ~ A definir
+- 18:00h ~ 19:00h ~ Credenciamento / Coffee Break
+- 19:00h ~ 19:30h ~ Rodada de Apresentações
+- 19:30h ~ 20:00h ~ Matheus Santana ~ Como usar o ActiveGenie para seu próprio bem e provento
+- 20:00h ~ 20:30h ~ Luan Pacote ~ Mentalidade Hacker
+- 20:30h ~ 21:00h ~ Carol Borges ~ Rails Girls - 10 Anos de História
+- 21:00h ~ 22:00h ~ Rubyrita
 
 ## Palestrantes
 
-A definir
+### Matheus Santana
+
+Matheus Santana é Cientista da Computação pela UFPE e desenvolvedor de aplicações Rails desde 2012. Ele também é passista instigador de encontros no Frevo on Rails.
+
+### Luan Pacote
+
+Luan Pacote é um Engenheiro de Segurança com mais de 10 anos de experiência em APPSec. Ele também é um dos organizadores do evento de cibersegurança  BSides João Pessoa
+
+### Carol Borges
+
+Carol Borges é Engenheira Química que descobriu sua paixão por tecnologia e fez a transição de carreira para a área em 2020. Hoje é Engenheira de Software na KnowBe4 e organizadora do Rails Girls São Paulo e Trem on Rails, sendo ativa na comunidade com foco em promover mais inclusão na área tech.
 
 ## Organizadores
 
